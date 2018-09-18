@@ -1,0 +1,768 @@
+Adventurer.png
+size: 100, 2035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer-air-attack-3-end
+  rotate: false
+  xy: 0, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-air-attack-3-end
+  rotate: false
+  xy: 50, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-air-attack-3-end
+  rotate: false
+  xy: 0, 37
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-air-attack1
+  rotate: false
+  xy: 50, 37
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-air-attack1
+  rotate: false
+  xy: 0, 74
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-air-attack1
+  rotate: false
+  xy: 50, 74
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-air-attack1
+  rotate: false
+  xy: 0, 111
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-air-attack2
+  rotate: false
+  xy: 50, 111
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-air-attack2
+  rotate: false
+  xy: 0, 148
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-air-attack2
+  rotate: false
+  xy: 50, 148
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-air-attack3-loop
+  rotate: false
+  xy: 0, 185
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-air-attack3-loop
+  rotate: false
+  xy: 50, 185
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-air-attack3-rdy
+  rotate: false
+  xy: 0, 222
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-attack1
+  rotate: false
+  xy: 50, 222
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-attack1
+  rotate: false
+  xy: 0, 259
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-attack1
+  rotate: false
+  xy: 50, 259
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-attack1
+  rotate: false
+  xy: 0, 296
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-attack1
+  rotate: false
+  xy: 50, 296
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-attack2
+  rotate: false
+  xy: 0, 333
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-attack2
+  rotate: false
+  xy: 50, 333
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-attack2
+  rotate: false
+  xy: 0, 370
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-attack2
+  rotate: false
+  xy: 50, 370
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-attack2
+  rotate: false
+  xy: 0, 407
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-attack2
+  rotate: false
+  xy: 50, 407
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 5
+adventurer-attack3
+  rotate: false
+  xy: 0, 444
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-attack3
+  rotate: false
+  xy: 50, 444
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-attack3
+  rotate: false
+  xy: 0, 481
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-attack3
+  rotate: false
+  xy: 50, 481
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-attack3
+  rotate: false
+  xy: 0, 518
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-attack3
+  rotate: false
+  xy: 50, 518
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 5
+adventurer-cast-loop
+  rotate: false
+  xy: 0, 555
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-cast-loop
+  rotate: false
+  xy: 50, 555
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-cast-loop
+  rotate: false
+  xy: 0, 592
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-cast-loop
+  rotate: false
+  xy: 50, 592
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-cast
+  rotate: false
+  xy: 0, 629
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-cast
+  rotate: false
+  xy: 50, 629
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-cast
+  rotate: false
+  xy: 0, 666
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-cast
+  rotate: false
+  xy: 50, 666
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-crnr-clmb
+  rotate: false
+  xy: 0, 703
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-crnr-clmb
+  rotate: false
+  xy: 50, 703
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-crnr-clmb
+  rotate: false
+  xy: 0, 740
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-crnr-clmb
+  rotate: false
+  xy: 50, 740
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-crnr-clmb
+  rotate: false
+  xy: 0, 777
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-crnr-grb
+  rotate: false
+  xy: 50, 777
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-crnr-grb
+  rotate: false
+  xy: 0, 814
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-crnr-grb
+  rotate: false
+  xy: 50, 814
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-crnr-grb
+  rotate: false
+  xy: 0, 851
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-crnr-jmp
+  rotate: false
+  xy: 50, 851
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-crnr-jmp
+  rotate: false
+  xy: 0, 888
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-crouch
+  rotate: false
+  xy: 50, 888
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-crouch
+  rotate: false
+  xy: 0, 925
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-crouch
+  rotate: false
+  xy: 50, 925
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-crouch
+  rotate: false
+  xy: 0, 962
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-die
+  rotate: false
+  xy: 50, 962
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-die
+  rotate: false
+  xy: 0, 999
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-die
+  rotate: false
+  xy: 50, 999
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-die
+  rotate: false
+  xy: 0, 1036
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-die
+  rotate: false
+  xy: 50, 1036
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-die
+  rotate: false
+  xy: 0, 1073
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 5
+adventurer-die
+  rotate: false
+  xy: 50, 1073
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 6
+adventurer-fall
+  rotate: false
+  xy: 0, 1110
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-fall
+  rotate: false
+  xy: 50, 1110
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-hurt
+  rotate: false
+  xy: 0, 1147
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-hurt
+  rotate: false
+  xy: 50, 1147
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-hurt
+  rotate: false
+  xy: 0, 1184
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-idle-2
+  rotate: false
+  xy: 50, 1184
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-idle-2
+  rotate: false
+  xy: 0, 1221
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-idle-2
+  rotate: false
+  xy: 50, 1221
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-idle-2
+  rotate: false
+  xy: 0, 1258
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-idle
+  rotate: false
+  xy: 50, 1258
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-idle
+  rotate: false
+  xy: 0, 1295
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-idle
+  rotate: false
+  xy: 50, 1295
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-idle
+  rotate: false
+  xy: 0, 1332
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-items
+  rotate: false
+  xy: 50, 1332
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-items
+  rotate: false
+  xy: 0, 1369
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-items
+  rotate: false
+  xy: 50, 1369
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-jump
+  rotate: false
+  xy: 0, 1406
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-jump
+  rotate: false
+  xy: 50, 1406
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-jump
+  rotate: false
+  xy: 0, 1443
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-jump
+  rotate: false
+  xy: 50, 1443
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-ladder-climb
+  rotate: false
+  xy: 0, 1480
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-ladder-climb
+  rotate: false
+  xy: 50, 1480
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-ladder-climb
+  rotate: false
+  xy: 0, 1517
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-ladder-climb
+  rotate: false
+  xy: 50, 1517
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-run
+  rotate: false
+  xy: 0, 1554
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-run
+  rotate: false
+  xy: 50, 1554
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-run
+  rotate: false
+  xy: 0, 1591
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-run
+  rotate: false
+  xy: 50, 1591
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-run
+  rotate: false
+  xy: 0, 1628
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 4
+adventurer-run
+  rotate: false
+  xy: 50, 1628
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 5
+adventurer-slide
+  rotate: false
+  xy: 0, 1665
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-slide
+  rotate: false
+  xy: 50, 1665
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-smrslt
+  rotate: false
+  xy: 0, 1702
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-smrslt
+  rotate: false
+  xy: 50, 1702
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-smrslt
+  rotate: false
+  xy: 0, 1739
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-smrslt
+  rotate: false
+  xy: 50, 1739
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-stand
+  rotate: false
+  xy: 0, 1776
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-stand
+  rotate: false
+  xy: 50, 1776
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-stand
+  rotate: false
+  xy: 0, 1813
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-swrd-drw
+  rotate: false
+  xy: 50, 1813
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-swrd-drw
+  rotate: false
+  xy: 0, 1850
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-swrd-drw
+  rotate: false
+  xy: 50, 1850
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-swrd-drw
+  rotate: false
+  xy: 0, 1887
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-swrd-shte
+  rotate: false
+  xy: 50, 1887
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-swrd-shte
+  rotate: false
+  xy: 0, 1924
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1
+adventurer-swrd-shte
+  rotate: false
+  xy: 50, 1924
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 2
+adventurer-swrd-shte
+  rotate: false
+  xy: 0, 1961
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 3
+adventurer-wall-slide
+  rotate: false
+  xy: 50, 1961
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 0
+adventurer-wall-slide
+  rotate: false
+  xy: 0, 1998
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: 1

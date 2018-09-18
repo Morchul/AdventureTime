@@ -1,0 +1,488 @@
+Skeleton.png
+size: 989, 111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skeleton-Attack
+  rotate: false
+  xy: 0, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-Attack
+  rotate: false
+  xy: 43, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-Attack
+  rotate: false
+  xy: 86, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-Attack
+  rotate: false
+  xy: 129, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Attack
+  rotate: false
+  xy: 172, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 4
+Skeleton-Attack
+  rotate: false
+  xy: 215, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 5
+Skeleton-Attack
+  rotate: false
+  xy: 258, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton-Attack
+  rotate: false
+  xy: 301, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 7
+Skeleton-Attack
+  rotate: false
+  xy: 344, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 8
+Skeleton-Attack
+  rotate: false
+  xy: 387, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 9
+Skeleton-Attack
+  rotate: false
+  xy: 430, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 10
+Skeleton-Attack
+  rotate: false
+  xy: 473, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 11
+Skeleton-Attack
+  rotate: false
+  xy: 516, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 12
+Skeleton-Attack
+  rotate: false
+  xy: 559, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 13
+Skeleton-Attack
+  rotate: false
+  xy: 602, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 14
+Skeleton-Attack
+  rotate: false
+  xy: 645, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 15
+Skeleton-Attack
+  rotate: false
+  xy: 688, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 16
+Skeleton-Attack
+  rotate: false
+  xy: 731, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 17
+Skeleton-Dead
+  rotate: false
+  xy: 774, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-Dead
+  rotate: false
+  xy: 817, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-Dead
+  rotate: false
+  xy: 860, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-Dead
+  rotate: false
+  xy: 903, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Dead
+  rotate: false
+  xy: 946, 0
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 4
+Skeleton-Dead
+  rotate: false
+  xy: 0, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 5
+Skeleton-Dead
+  rotate: false
+  xy: 43, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton-Dead
+  rotate: false
+  xy: 86, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 7
+Skeleton-Dead
+  rotate: false
+  xy: 129, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 8
+Skeleton-Dead
+  rotate: false
+  xy: 172, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 9
+Skeleton-Dead
+  rotate: false
+  xy: 215, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 10
+Skeleton-Dead
+  rotate: false
+  xy: 258, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 11
+Skeleton-Dead
+  rotate: false
+  xy: 301, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 12
+Skeleton-Dead
+  rotate: false
+  xy: 344, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 13
+Skeleton-Dead
+  rotate: false
+  xy: 387, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 14
+Skeleton-Hit
+  rotate: false
+  xy: 430, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-Hit
+  rotate: false
+  xy: 473, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-Hit
+  rotate: false
+  xy: 516, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-Hit
+  rotate: false
+  xy: 559, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Hit
+  rotate: false
+  xy: 602, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 4
+Skeleton-Hit
+  rotate: false
+  xy: 645, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 5
+Skeleton-Hit
+  rotate: false
+  xy: 688, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton-Hit
+  rotate: false
+  xy: 731, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 7
+Skeleton-Idle
+  rotate: false
+  xy: 774, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-Idle
+  rotate: false
+  xy: 817, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-Idle
+  rotate: false
+  xy: 860, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-Idle
+  rotate: false
+  xy: 903, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Idle
+  rotate: false
+  xy: 946, 37
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 4
+Skeleton-Idle
+  rotate: false
+  xy: 0, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 5
+Skeleton-Idle
+  rotate: false
+  xy: 43, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton-Idle
+  rotate: false
+  xy: 86, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 7
+Skeleton-Idle
+  rotate: false
+  xy: 129, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 8
+Skeleton-Idle
+  rotate: false
+  xy: 172, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 9
+Skeleton-Idle
+  rotate: false
+  xy: 215, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 10
+Skeleton-React
+  rotate: false
+  xy: 258, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-React
+  rotate: false
+  xy: 301, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-React
+  rotate: false
+  xy: 344, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-React
+  rotate: false
+  xy: 387, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Walk
+  rotate: false
+  xy: 430, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 0
+Skeleton-Walk
+  rotate: false
+  xy: 473, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 1
+Skeleton-Walk
+  rotate: false
+  xy: 516, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 2
+Skeleton-Walk
+  rotate: false
+  xy: 559, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 3
+Skeleton-Walk
+  rotate: false
+  xy: 602, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 4
+Skeleton-Walk
+  rotate: false
+  xy: 645, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 5
+Skeleton-Walk
+  rotate: false
+  xy: 688, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton-Walk
+  rotate: false
+  xy: 731, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 7
+Skeleton-Walk
+  rotate: false
+  xy: 774, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 8
+Skeleton-Walk
+  rotate: false
+  xy: 817, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 9
+Skeleton-Walk
+  rotate: false
+  xy: 860, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 10
+Skeleton-Walk
+  rotate: false
+  xy: 903, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 11
+Skeleton-Walk
+  rotate: false
+  xy: 946, 74
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: 12
