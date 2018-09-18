@@ -12,7 +12,7 @@ public class Constants {
     public static final float WORLD_WIDTH = WORLD_PIXEL_WIDTH / PPM; //in meter
     public static final float WORLD_HEIGHT = WORLD_PIXEL_HEIGHT / PPM; //in meter
 
-    public final static int MAX_LEVEL = 12;
+    public final static int MAX_LEVEL = 13;
 
     //can Access after start game
     public static int TILE_PIXEL_WIDTH;
